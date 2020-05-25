@@ -1,3 +1,6 @@
+// sieve
+// sqrt factorization
+
 // https://www.codechef.com/LRNDSA05/problems/CHEFPRMS
 // https://github.com/kevin3010
 
